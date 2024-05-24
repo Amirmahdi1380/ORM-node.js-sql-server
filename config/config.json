@@ -1,0 +1,16 @@
+{
+  "development": {
+    "username": "sa",
+    "password": "123456789@Asge",
+    "database": "fund",
+    "host": "localhost",
+    "port": 1401,
+    "dialect": "mssql",
+    "dialectOptions": {
+      "encrypt": false,
+      "options": {
+        "enableArithAbort": true
+      }
+    }
+  }
+}
